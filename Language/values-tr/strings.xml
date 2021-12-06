@@ -151,7 +151,7 @@
     <string name="time_days">gün</string>
     <string name="time_h">s</string>
     <string name="time_m">d</string>
-    <string name="time_s">i</string>
+    <string name="time_s">sn</string>
     <string name="password">Şifre</string>
     <string name="input_password">Şifreyi girin</string>
     <string name="invalid_password">Geçersiz şifre</string>
